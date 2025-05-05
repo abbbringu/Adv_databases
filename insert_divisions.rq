@@ -1,0 +1,198 @@
+PREFIX :   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+INSERT DATA {
+  :D1-0 rdf:type                :Division ;
+      :divisionId            "D1-0" ;
+      :DivisionInDepartment  :D1 .
+  
+  :D1-1 rdf:type                :Division ;
+      :divisionId            "D1-1" ;
+      :DivisionInDepartment  :D1 .
+  
+  :D1-2 rdf:type                :Division ;
+      :divisionId            "D1-2" ;
+      :DivisionInDepartment  :D1 .
+  
+  :D1-3 rdf:type                :Division ;
+      :divisionId            "D1-3" ;
+      :DivisionInDepartment  :D1 .
+  
+  :D1-4 rdf:type                :Division ;
+      :divisionId            "D1-4" ;
+      :DivisionInDepartment  :D1 .
+  
+  :D1-5 rdf:type                :Division ;
+      :divisionId            "D1-5" ;
+      :DivisionInDepartment  :D1 .
+  
+  :D2-0 rdf:type                :Division ;
+      :divisionId            "D2-0" ;
+      :DivisionInDepartment  :D2 .
+  
+  :D2-1 rdf:type                :Division ;
+      :divisionId            "D2-1" ;
+      :DivisionInDepartment  :D2 .
+  
+  :D2-2 rdf:type                :Division ;
+      :divisionId            "D2-2" ;
+      :DivisionInDepartment  :D2 .
+  
+  :D2-3 rdf:type                :Division ;
+      :divisionId            "D2-3" ;
+      :DivisionInDepartment  :D2 .
+  
+  :D2-4 rdf:type                :Division ;
+      :divisionId            "D2-4" ;
+      :DivisionInDepartment  :D2 .
+  
+  :D2-5 rdf:type                :Division ;
+      :divisionId            "D2-5" ;
+      :DivisionInDepartment  :D2 .
+  
+  :D3-0 rdf:type                :Division ;
+      :divisionId            "D3-0" ;
+      :DivisionInDepartment  :D3 .
+  
+  :D3-1 rdf:type                :Division ;
+      :divisionId            "D3-1" ;
+      :DivisionInDepartment  :D3 .
+  
+  :D3-2 rdf:type                :Division ;
+      :divisionId            "D3-2" ;
+      :DivisionInDepartment  :D3 .
+  
+  :D3-3 rdf:type                :Division ;
+      :divisionId            "D3-3" ;
+      :DivisionInDepartment  :D3 .
+  
+  :D3-4 rdf:type                :Division ;
+      :divisionId            "D3-4" ;
+      :DivisionInDepartment  :D3 .
+  
+  :D3-5 rdf:type                :Division ;
+      :divisionId            "D3-5" ;
+      :DivisionInDepartment  :D3 .
+  
+  :D4-0 rdf:type                :Division ;
+      :divisionId            "D4-0" ;
+      :DivisionInDepartment  :D4 .
+  
+  :D4-1 rdf:type                :Division ;
+      :divisionId            "D4-1" ;
+      :DivisionInDepartment  :D4 .
+  
+  :D4-2 rdf:type                :Division ;
+      :divisionId            "D4-2" ;
+      :DivisionInDepartment  :D4 .
+  
+  :D4-3 rdf:type                :Division ;
+      :divisionId            "D4-3" ;
+      :DivisionInDepartment  :D4 .
+  
+  :D4-4 rdf:type                :Division ;
+      :divisionId            "D4-4" ;
+      :DivisionInDepartment  :D4 .
+  
+  :D4-5 rdf:type                :Division ;
+      :divisionId            "D4-5" ;
+      :DivisionInDepartment  :D4 .
+  
+  :D5-0 rdf:type                :Division ;
+      :divisionId            "D5-0" ;
+      :DivisionInDepartment  :D5 .
+  
+  :D5-1 rdf:type                :Division ;
+      :divisionId            "D5-1" ;
+      :DivisionInDepartment  :D5 .
+  
+  :D5-2 rdf:type                :Division ;
+      :divisionId            "D5-2" ;
+      :DivisionInDepartment  :D5 .
+  
+  :D5-3 rdf:type                :Division ;
+      :divisionId            "D5-3" ;
+      :DivisionInDepartment  :D5 .
+  
+  :D5-4 rdf:type                :Division ;
+      :divisionId            "D5-4" ;
+      :DivisionInDepartment  :D5 .
+  
+  :D5-5 rdf:type                :Division ;
+      :divisionId            "D5-5" ;
+      :DivisionInDepartment  :D5 .
+  
+  :D6-0 rdf:type                :Division ;
+      :divisionId            "D6-0" ;
+      :DivisionInDepartment  :D6 .
+  
+  :D6-1 rdf:type                :Division ;
+      :divisionId            "D6-1" ;
+      :DivisionInDepartment  :D6 .
+  
+  :D6-2 rdf:type                :Division ;
+      :divisionId            "D6-2" ;
+      :DivisionInDepartment  :D6 .
+  
+  :D6-3 rdf:type                :Division ;
+      :divisionId            "D6-3" ;
+      :DivisionInDepartment  :D6 .
+  
+  :D6-4 rdf:type                :Division ;
+      :divisionId            "D6-4" ;
+      :DivisionInDepartment  :D6 .
+  
+  :D6-5 rdf:type                :Division ;
+      :divisionId            "D6-5" ;
+      :DivisionInDepartment  :D6 .
+  
+  :D7-0 rdf:type                :Division ;
+      :divisionId            "D7-0" ;
+      :DivisionInDepartment  :D7 .
+  
+  :D7-1 rdf:type                :Division ;
+      :divisionId            "D7-1" ;
+      :DivisionInDepartment  :D7 .
+  
+  :D7-2 rdf:type                :Division ;
+      :divisionId            "D7-2" ;
+      :DivisionInDepartment  :D7 .
+  
+  :D7-3 rdf:type                :Division ;
+      :divisionId            "D7-3" ;
+      :DivisionInDepartment  :D7 .
+  
+  :D7-4 rdf:type                :Division ;
+      :divisionId            "D7-4" ;
+      :DivisionInDepartment  :D7 .
+  
+  :D7-5 rdf:type                :Division ;
+      :divisionId            "D7-5" ;
+      :DivisionInDepartment  :D7 .
+  
+  :D8-0 rdf:type                :Division ;
+      :divisionId            "D8-0" ;
+      :DivisionInDepartment  :D8 .
+  
+  :D8-1 rdf:type                :Division ;
+      :divisionId            "D8-1" ;
+      :DivisionInDepartment  :D8 .
+  
+  :D8-2 rdf:type                :Division ;
+      :divisionId            "D8-2" ;
+      :DivisionInDepartment  :D8 .
+  
+  :D8-3 rdf:type                :Division ;
+      :divisionId            "D8-3" ;
+      :DivisionInDepartment  :D8 .
+  
+  :D8-4 rdf:type                :Division ;
+      :divisionId            "D8-4" ;
+      :DivisionInDepartment  :D8 .
+  
+  :D8-5 rdf:type                :Division ;
+      :divisionId            "D8-5" ;
+      :DivisionInDepartment  :D8 .
+  
+}

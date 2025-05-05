@@ -1,0 +1,131 @@
+PREFIX :   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+INSERT DATA {
+  :10001 rdf:type       :Programme ;
+          :programmeName         "P-01" ;
+          :programmeCode         "10001"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19620522-0023" .
+  
+  :10011 rdf:type       :Programme ;
+          :programmeName         "P-11" ;
+          :programmeCode         "10011"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19620424-0026" .
+  
+  :10012 rdf:type       :Programme ;
+          :programmeName         "P-12" ;
+          :programmeCode         "10012"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19610623-0005" .
+  
+  :10013 rdf:type       :Programme ;
+          :programmeName         "P-13" ;
+          :programmeCode         "10013"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19690408-0009" .
+  
+  :10014 rdf:type       :Programme ;
+          :programmeName         "P-14" ;
+          :programmeCode         "10014"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19560812-0016" .
+  
+  :10021 rdf:type       :Programme ;
+          :programmeName         "P-21" ;
+          :programmeCode         "10021"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19570615-0011" .
+  
+  :10031 rdf:type       :Programme ;
+          :programmeName         "P-31" ;
+          :programmeCode         "10031"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19650303-0019" .
+  
+  :10032 rdf:type       :Programme ;
+          :programmeName         "P-32" ;
+          :programmeCode         "10032"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19570826-0012" .
+  
+  :10033 rdf:type       :Programme ;
+          :programmeName         "P-33" ;
+          :programmeCode         "10033"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19570828-0008" .
+  
+  :10034 rdf:type       :Programme ;
+          :programmeName         "P-34" ;
+          :programmeCode         "10034"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19610918-0027" .
+  
+  :10041 rdf:type       :Programme ;
+          :programmeName         "P-41" ;
+          :programmeCode         "10041"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19580218-0007" .
+  
+  :10042 rdf:type       :Programme ;
+          :programmeName         "P-42" ;
+          :programmeCode         "10042"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19620831-0024" .
+  
+  :10051 rdf:type       :Programme ;
+          :programmeName         "P-51" ;
+          :programmeCode         "10051"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19580515-0017" .
+  
+  :10052 rdf:type       :Programme ;
+          :programmeName         "P-52" ;
+          :programmeCode         "10052"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19611219-0014" .
+  
+  :10053 rdf:type       :Programme ;
+          :programmeName         "P-53" ;
+          :programmeCode         "10053"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19600905-0003" .
+  
+  :10054 rdf:type       :Programme ;
+          :programmeName         "P-54" ;
+          :programmeCode         "10054"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19630126-0001" .
+  
+  :10061 rdf:type       :Programme ;
+          :programmeName         "P-61" ;
+          :programmeCode         "10061"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19680712-0028" .
+  
+  :10071 rdf:type       :Programme ;
+          :programmeName         "P-71" ;
+          :programmeCode         "10071"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19610620-0006" .
+  
+  :10072 rdf:type       :Programme ;
+          :programmeName         "P-72" ;
+          :programmeCode         "10072"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19660630-0020" .
+  
+  :10073 rdf:type       :Programme ;
+          :programmeName         "P-73" ;
+          :programmeCode         "10073"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19600814-0002" .
+  
+  :10074 rdf:type       :Programme ;
+          :programmeName         "P-74" ;
+          :programmeCode         "10074"^^xsd:integer ;
+          :ProgrammeInDepartment         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8" ;
+          :DirectorOfProgramme         "http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/19601021-0018" .
+  
+}

@@ -1,0 +1,555 @@
+PREFIX :   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+INSERT DATA {
+  :19781125-0031 rdf:type       :TeachingAssistant ;
+          :name         "TA 31" ;
+          :personId         "19781125-0031" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-0> .
+  
+  :19750906-0032 rdf:type       :TeachingAssistant ;
+          :name         "TA 32" ;
+          :personId         "19750906-0032" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-2> .
+  
+  :19750705-0033 rdf:type       :TeachingAssistant ;
+          :name         "TA 33" ;
+          :personId         "19750705-0033" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-1> .
+  
+  :19761024-0034 rdf:type       :TeachingAssistant ;
+          :name         "TA 34" ;
+          :personId         "19761024-0034" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-1> .
+  
+  :19780602-0035 rdf:type       :TeachingAssistant ;
+          :name         "TA 35" ;
+          :personId         "19780602-0035" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-2> .
+  
+  :19750331-0036 rdf:type       :TeachingAssistant ;
+          :name         "TA 36" ;
+          :personId         "19750331-0036" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-3> .
+  
+  :19750220-0037 rdf:type       :TeachingAssistant ;
+          :name         "TA 37" ;
+          :personId         "19750220-0037" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-3> .
+  
+  :19790702-0038 rdf:type       :TeachingAssistant ;
+          :name         "TA 38" ;
+          :personId         "19790702-0038" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-4> .
+  
+  :19751018-0039 rdf:type       :TeachingAssistant ;
+          :name         "TA 39" ;
+          :personId         "19751018-0039" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-4> .
+  
+  :19771013-0040 rdf:type       :TeachingAssistant ;
+          :name         "TA 40" ;
+          :personId         "19771013-0040" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-4> .
+  
+  :19790708-0041 rdf:type       :TeachingAssistant ;
+          :name         "TA 41" ;
+          :personId         "19790708-0041" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-2> .
+  
+  :19770713-0042 rdf:type       :TeachingAssistant ;
+          :name         "TA 42" ;
+          :personId         "19770713-0042" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-1> .
+  
+  :19750512-0043 rdf:type       :TeachingAssistant ;
+          :name         "TA 43" ;
+          :personId         "19750512-0043" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-0> .
+  
+  :19761020-0044 rdf:type       :TeachingAssistant ;
+          :name         "TA 44" ;
+          :personId         "19761020-0044" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-5> .
+  
+  :19790717-0045 rdf:type       :TeachingAssistant ;
+          :name         "TA 45" ;
+          :personId         "19790717-0045" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-2> .
+  
+  :19760524-0046 rdf:type       :TeachingAssistant ;
+          :name         "TA 46" ;
+          :personId         "19760524-0046" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-1> .
+  
+  :19780815-0047 rdf:type       :TeachingAssistant ;
+          :name         "TA 47" ;
+          :personId         "19780815-0047" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-2> .
+  
+  :19790618-0048 rdf:type       :TeachingAssistant ;
+          :name         "TA 48" ;
+          :personId         "19790618-0048" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-5> .
+  
+  :19790426-0049 rdf:type       :TeachingAssistant ;
+          :name         "TA 49" ;
+          :personId         "19790426-0049" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-3> .
+  
+  :19760108-0050 rdf:type       :TeachingAssistant ;
+          :name         "TA 50" ;
+          :personId         "19760108-0050" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-1> .
+  
+  :19750417-0051 rdf:type       :TeachingAssistant ;
+          :name         "TA 51" ;
+          :personId         "19750417-0051" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-1> .
+  
+  :19780317-0052 rdf:type       :TeachingAssistant ;
+          :name         "TA 52" ;
+          :personId         "19780317-0052" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-3> .
+  
+  :19781217-0053 rdf:type       :TeachingAssistant ;
+          :name         "TA 53" ;
+          :personId         "19781217-0053" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-3> .
+  
+  :19781130-0054 rdf:type       :TeachingAssistant ;
+          :name         "TA 54" ;
+          :personId         "19781130-0054" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-1> .
+  
+  :19761009-0055 rdf:type       :TeachingAssistant ;
+          :name         "TA 55" ;
+          :personId         "19761009-0055" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-2> .
+  
+  :19750122-0056 rdf:type       :TeachingAssistant ;
+          :name         "TA 56" ;
+          :personId         "19750122-0056" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-3> .
+  
+  :19780424-0057 rdf:type       :TeachingAssistant ;
+          :name         "TA 57" ;
+          :personId         "19780424-0057" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-4> .
+  
+  :19770224-0058 rdf:type       :TeachingAssistant ;
+          :name         "TA 58" ;
+          :personId         "19770224-0058" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-4> .
+  
+  :19750102-0059 rdf:type       :TeachingAssistant ;
+          :name         "TA 59" ;
+          :personId         "19750102-0059" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-0> .
+  
+  :19750722-0060 rdf:type       :TeachingAssistant ;
+          :name         "TA 60" ;
+          :personId         "19750722-0060" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-1> .
+  
+  :19930508-0061 rdf:type       :TeachingAssistant ;
+          :name         "TA 61" ;
+          :personId         "19930508-0061" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-4> .
+  
+  :19931118-0062 rdf:type       :TeachingAssistant ;
+          :name         "TA 62" ;
+          :personId         "19931118-0062" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-5> .
+  
+  :19900520-0063 rdf:type       :TeachingAssistant ;
+          :name         "TA 63" ;
+          :personId         "19900520-0063" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-1> .
+  
+  :19900124-0064 rdf:type       :TeachingAssistant ;
+          :name         "TA 64" ;
+          :personId         "19900124-0064" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-4> .
+  
+  :19920122-0065 rdf:type       :TeachingAssistant ;
+          :name         "TA 65" ;
+          :personId         "19920122-0065" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-4> .
+  
+  :19931203-0066 rdf:type       :TeachingAssistant ;
+          :name         "TA 66" ;
+          :personId         "19931203-0066" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-4> .
+  
+  :19910421-0067 rdf:type       :TeachingAssistant ;
+          :name         "TA 67" ;
+          :personId         "19910421-0067" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-3> .
+  
+  :19910514-0068 rdf:type       :TeachingAssistant ;
+          :name         "TA 68" ;
+          :personId         "19910514-0068" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> .
+  
+  :19911116-0069 rdf:type       :TeachingAssistant ;
+          :name         "TA 69" ;
+          :personId         "19911116-0069" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-2> .
+  
+  :19920828-0070 rdf:type       :TeachingAssistant ;
+          :name         "TA 70" ;
+          :personId         "19920828-0070" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-4> .
+  
+  :19901029-0071 rdf:type       :TeachingAssistant ;
+          :name         "TA 71" ;
+          :personId         "19901029-0071" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-2> .
+  
+  :19920206-0072 rdf:type       :TeachingAssistant ;
+          :name         "TA 72" ;
+          :personId         "19920206-0072" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-0> .
+  
+  :19920602-0073 rdf:type       :TeachingAssistant ;
+          :name         "TA 73" ;
+          :personId         "19920602-0073" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-5> .
+  
+  :19900201-0074 rdf:type       :TeachingAssistant ;
+          :name         "TA 74" ;
+          :personId         "19900201-0074" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-5> .
+  
+  :19920226-0075 rdf:type       :TeachingAssistant ;
+          :name         "TA 75" ;
+          :personId         "19920226-0075" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-3> .
+  
+  :19900619-0076 rdf:type       :TeachingAssistant ;
+          :name         "TA 76" ;
+          :personId         "19900619-0076" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-3> .
+  
+  :19910122-0077 rdf:type       :TeachingAssistant ;
+          :name         "TA 77" ;
+          :personId         "19910122-0077" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-0> .
+  
+  :19910820-0078 rdf:type       :TeachingAssistant ;
+          :name         "TA 78" ;
+          :personId         "19910820-0078" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-2> .
+  
+  :19931212-0079 rdf:type       :TeachingAssistant ;
+          :name         "TA 79" ;
+          :personId         "19931212-0079" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-2> .
+  
+  :19900321-0080 rdf:type       :TeachingAssistant ;
+          :name         "TA 80" ;
+          :personId         "19900321-0080" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-3> .
+  
+  :19910206-0081 rdf:type       :TeachingAssistant ;
+          :name         "TA 81" ;
+          :personId         "19910206-0081" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-1> .
+  
+  :19930829-0082 rdf:type       :TeachingAssistant ;
+          :name         "TA 82" ;
+          :personId         "19930829-0082" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-5> .
+  
+  :19900317-0083 rdf:type       :TeachingAssistant ;
+          :name         "TA 83" ;
+          :personId         "19900317-0083" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-5> .
+  
+  :19910214-0084 rdf:type       :TeachingAssistant ;
+          :name         "TA 84" ;
+          :personId         "19910214-0084" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-1> .
+  
+  :19901002-0085 rdf:type       :TeachingAssistant ;
+          :name         "TA 85" ;
+          :personId         "19901002-0085" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-0> .
+  
+  :19930228-0086 rdf:type       :TeachingAssistant ;
+          :name         "TA 86" ;
+          :personId         "19930228-0086" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-0> .
+  
+  :19901108-0087 rdf:type       :TeachingAssistant ;
+          :name         "TA 87" ;
+          :personId         "19901108-0087" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-4> .
+  
+  :19920826-0088 rdf:type       :TeachingAssistant ;
+          :name         "TA 88" ;
+          :personId         "19920826-0088" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-5> .
+  
+  :19900426-0089 rdf:type       :TeachingAssistant ;
+          :name         "TA 89" ;
+          :personId         "19900426-0089" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-0> .
+  
+  :19900902-0090 rdf:type       :TeachingAssistant ;
+          :name         "TA 90" ;
+          :personId         "19900902-0090" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-3> .
+  
+  :19911025-0091 rdf:type       :TeachingAssistant ;
+          :name         "TA 91" ;
+          :personId         "19911025-0091" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-3> .
+  
+  :19910817-0092 rdf:type       :TeachingAssistant ;
+          :name         "TA 92" ;
+          :personId         "19910817-0092" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-4> .
+  
+  :19920504-0093 rdf:type       :TeachingAssistant ;
+          :name         "TA 93" ;
+          :personId         "19920504-0093" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-2> .
+  
+  :19921201-0094 rdf:type       :TeachingAssistant ;
+          :name         "TA 94" ;
+          :personId         "19921201-0094" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-3> .
+  
+  :19900128-0095 rdf:type       :TeachingAssistant ;
+          :name         "TA 95" ;
+          :personId         "19900128-0095" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-5> .
+  
+  :19910327-0096 rdf:type       :TeachingAssistant ;
+          :name         "TA 96" ;
+          :personId         "19910327-0096" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-4> .
+  
+  :19921208-0097 rdf:type       :TeachingAssistant ;
+          :name         "TA 97" ;
+          :personId         "19921208-0097" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-4> .
+  
+  :19920217-0098 rdf:type       :TeachingAssistant ;
+          :name         "TA 98" ;
+          :personId         "19920217-0098" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-4> .
+  
+  :19931231-0099 rdf:type       :TeachingAssistant ;
+          :name         "TA 99" ;
+          :personId         "19931231-0099" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-5> .
+  
+  :19930709-0100 rdf:type       :TeachingAssistant ;
+          :name         "TA 100" ;
+          :personId         "19930709-0100" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-4> .
+  
+  :19921218-0101 rdf:type       :TeachingAssistant ;
+          :name         "TA 101" ;
+          :personId         "19921218-0101" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-2> .
+  
+  :19910404-0102 rdf:type       :TeachingAssistant ;
+          :name         "TA 102" ;
+          :personId         "19910404-0102" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-4> .
+  
+  :19910403-0103 rdf:type       :TeachingAssistant ;
+          :name         "TA 103" ;
+          :personId         "19910403-0103" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-2> .
+  
+  :19900119-0104 rdf:type       :TeachingAssistant ;
+          :name         "TA 104" ;
+          :personId         "19900119-0104" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-5> .
+  
+  :19900307-0105 rdf:type       :TeachingAssistant ;
+          :name         "TA 105" ;
+          :personId         "19900307-0105" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-3> .
+  
+  :19930414-0106 rdf:type       :TeachingAssistant ;
+          :name         "TA 106" ;
+          :personId         "19930414-0106" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-4> .
+  
+  :19920316-0107 rdf:type       :TeachingAssistant ;
+          :name         "TA 107" ;
+          :personId         "19920316-0107" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-4> .
+  
+  :19921123-0108 rdf:type       :TeachingAssistant ;
+          :name         "TA 108" ;
+          :personId         "19921123-0108" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-4> .
+  
+  :19920917-0109 rdf:type       :TeachingAssistant ;
+          :name         "TA 109" ;
+          :personId         "19920917-0109" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-5> .
+  
+  :19930906-0110 rdf:type       :TeachingAssistant ;
+          :name         "TA 110" ;
+          :personId         "19930906-0110" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-0> .
+  
+  :19901026-0111 rdf:type       :TeachingAssistant ;
+          :name         "TA 111" ;
+          :personId         "19901026-0111" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-5> .
+  
+  :19900430-0112 rdf:type       :TeachingAssistant ;
+          :name         "TA 112" ;
+          :personId         "19900430-0112" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-0> .
+  
+  :19900701-0113 rdf:type       :TeachingAssistant ;
+          :name         "TA 113" ;
+          :personId         "19900701-0113" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-0> .
+  
+  :19900902-0114 rdf:type       :TeachingAssistant ;
+          :name         "TA 114" ;
+          :personId         "19900902-0114" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-0> .
+  
+  :19920505-0115 rdf:type       :TeachingAssistant ;
+          :name         "TA 115" ;
+          :personId         "19920505-0115" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-3> .
+  
+  :19900818-0116 rdf:type       :TeachingAssistant ;
+          :name         "TA 116" ;
+          :personId         "19900818-0116" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-5> .
+  
+  :19930512-0117 rdf:type       :TeachingAssistant ;
+          :name         "TA 117" ;
+          :personId         "19930512-0117" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-2> .
+  
+  :19931226-0118 rdf:type       :TeachingAssistant ;
+          :name         "TA 118" ;
+          :personId         "19931226-0118" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-4> .
+  
+  :19901011-0119 rdf:type       :TeachingAssistant ;
+          :name         "TA 119" ;
+          :personId         "19901011-0119" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-1> .
+  
+  :19921127-0120 rdf:type       :TeachingAssistant ;
+          :name         "TA 120" ;
+          :personId         "19921127-0120" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-3> .
+  
+  :19920320-0121 rdf:type       :TeachingAssistant ;
+          :name         "TA 121" ;
+          :personId         "19920320-0121" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-2> .
+  
+  :19910822-0122 rdf:type       :TeachingAssistant ;
+          :name         "TA 122" ;
+          :personId         "19910822-0122" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-4> .
+  
+  :19900909-0123 rdf:type       :TeachingAssistant ;
+          :name         "TA 123" ;
+          :personId         "19900909-0123" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-0> .
+  
+  :19900616-0124 rdf:type       :TeachingAssistant ;
+          :name         "TA 124" ;
+          :personId         "19900616-0124" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-2> .
+  
+  :19901219-0125 rdf:type       :TeachingAssistant ;
+          :name         "TA 125" ;
+          :personId         "19901219-0125" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> .
+  
+  :19900723-0126 rdf:type       :TeachingAssistant ;
+          :name         "TA 126" ;
+          :personId         "19900723-0126" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-2> .
+  
+  :19930616-0127 rdf:type       :TeachingAssistant ;
+          :name         "TA 127" ;
+          :personId         "19930616-0127" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-1> .
+  
+  :19910927-0128 rdf:type       :TeachingAssistant ;
+          :name         "TA 128" ;
+          :personId         "19910927-0128" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-3> .
+  
+  :19921002-0129 rdf:type       :TeachingAssistant ;
+          :name         "TA 129" ;
+          :personId         "19921002-0129" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-1> .
+  
+  :19900801-0130 rdf:type       :TeachingAssistant ;
+          :name         "TA 130" ;
+          :personId         "19900801-0130" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-2> .
+  
+  :19910403-0131 rdf:type       :TeachingAssistant ;
+          :name         "TA 131" ;
+          :personId         "19910403-0131" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-4> .
+  
+  :19930326-0132 rdf:type       :TeachingAssistant ;
+          :name         "TA 132" ;
+          :personId         "19930326-0132" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-0> .
+  
+  :19910101-0133 rdf:type       :TeachingAssistant ;
+          :name         "TA 133" ;
+          :personId         "19910101-0133" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-3> .
+  
+  :19900511-0134 rdf:type       :TeachingAssistant ;
+          :name         "TA 134" ;
+          :personId         "19900511-0134" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-2> .
+  
+  :19930302-0135 rdf:type       :TeachingAssistant ;
+          :name         "TA 135" ;
+          :personId         "19930302-0135" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-2> .
+  
+  :19910921-0136 rdf:type       :TeachingAssistant ;
+          :name         "TA 136" ;
+          :personId         "19910921-0136" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-1> .
+  
+  :19930919-0137 rdf:type       :TeachingAssistant ;
+          :name         "TA 137" ;
+          :personId         "19930919-0137" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-2> .
+  
+  :19900701-0138 rdf:type       :TeachingAssistant ;
+          :name         "TA 138" ;
+          :personId         "19900701-0138" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-1> .
+  
+  :19930221-0139 rdf:type       :TeachingAssistant ;
+          :name         "TA 139" ;
+          :personId         "19930221-0139" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-5> .
+  
+  :19900211-0140 rdf:type       :TeachingAssistant ;
+          :name         "TA 140" ;
+          :personId         "19900211-0140" ;
+          :TeacherInDivision   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-0> .
+  
+}

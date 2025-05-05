@@ -1,0 +1,30 @@
+PREFIX :   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+INSERT DATA {
+  :D1 rdf:type           :Department ;
+      :departmentId    "D1"^^xsd:string .
+  
+  :D2 rdf:type           :Department ;
+      :departmentId    "D2"^^xsd:string .
+  
+  :D3 rdf:type           :Department ;
+      :departmentId    "D3"^^xsd:string .
+  
+  :D4 rdf:type           :Department ;
+      :departmentId    "D4"^^xsd:string .
+  
+  :D5 rdf:type           :Department ;
+      :departmentId    "D5"^^xsd:string .
+  
+  :D6 rdf:type           :Department ;
+      :departmentId    "D6"^^xsd:string .
+  
+  :D7 rdf:type           :Department ;
+      :departmentId    "D7"^^xsd:string .
+  
+  :D8 rdf:type           :Department ;
+      :departmentId    "D8"^^xsd:string .
+  
+}
