@@ -1,0 +1,2405 @@
+PREFIX :   <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+INSERT DATA {
+  :1001 rdf:type                :Course ;
+          :courseCode          "1001"^^xsd:integer ;
+          :courseName          "C-1" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1002 rdf:type                :Course ;
+          :courseCode          "1002"^^xsd:integer ;
+          :courseName          "C-2" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-51> .
+  
+  :1003 rdf:type                :Course ;
+          :courseCode          "1003"^^xsd:integer ;
+          :courseName          "C-3" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1004 rdf:type                :Course ;
+          :courseCode          "1004"^^xsd:integer ;
+          :courseName          "C-4" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1005 rdf:type                :Course ;
+          :courseCode          "1005"^^xsd:integer ;
+          :courseName          "C-5" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-52> .
+  
+  :1006 rdf:type                :Course ;
+          :courseCode          "1006"^^xsd:integer ;
+          :courseName          "C-6" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-73> .
+  
+  :1007 rdf:type                :Course ;
+          :courseCode          "1007"^^xsd:integer ;
+          :courseName          "C-7" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1008 rdf:type                :Course ;
+          :courseCode          "1008"^^xsd:integer ;
+          :courseName          "C-8" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1009 rdf:type                :Course ;
+          :courseCode          "1009"^^xsd:integer ;
+          :courseName          "C-9" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1010 rdf:type                :Course ;
+          :courseCode          "1010"^^xsd:integer ;
+          :courseName          "C-10" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1011 rdf:type                :Course ;
+          :courseCode          "1011"^^xsd:integer ;
+          :courseName          "C-11" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-13> .
+  
+  :1012 rdf:type                :Course ;
+          :courseCode          "1012"^^xsd:integer ;
+          :courseName          "C-12" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1013 rdf:type                :Course ;
+          :courseCode          "1013"^^xsd:integer ;
+          :courseName          "C-13" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1014 rdf:type                :Course ;
+          :courseCode          "1014"^^xsd:integer ;
+          :courseName          "C-14" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1015 rdf:type                :Course ;
+          :courseCode          "1015"^^xsd:integer ;
+          :courseName          "C-15" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1016 rdf:type                :Course ;
+          :courseCode          "1016"^^xsd:integer ;
+          :courseName          "C-16" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-11> .
+  
+  :1017 rdf:type                :Course ;
+          :courseCode          "1017"^^xsd:integer ;
+          :courseName          "C-17" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1018 rdf:type                :Course ;
+          :courseCode          "1018"^^xsd:integer ;
+          :courseName          "C-18" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-13> .
+  
+  :1019 rdf:type                :Course ;
+          :courseCode          "1019"^^xsd:integer ;
+          :courseName          "C-19" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-72> .
+  
+  :1020 rdf:type                :Course ;
+          :courseCode          "1020"^^xsd:integer ;
+          :courseName          "C-20" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1021 rdf:type                :Course ;
+          :courseCode          "1021"^^xsd:integer ;
+          :courseName          "C-21" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-72> .
+  
+  :1022 rdf:type                :Course ;
+          :courseCode          "1022"^^xsd:integer ;
+          :courseName          "C-22" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1023 rdf:type                :Course ;
+          :courseCode          "1023"^^xsd:integer ;
+          :courseName          "C-23" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1024 rdf:type                :Course ;
+          :courseCode          "1024"^^xsd:integer ;
+          :courseName          "C-24" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-13> .
+  
+  :1025 rdf:type                :Course ;
+          :courseCode          "1025"^^xsd:integer ;
+          :courseName          "C-25" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1026 rdf:type                :Course ;
+          :courseCode          "1026"^^xsd:integer ;
+          :courseName          "C-26" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1027 rdf:type                :Course ;
+          :courseCode          "1027"^^xsd:integer ;
+          :courseName          "C-27" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1028 rdf:type                :Course ;
+          :courseCode          "1028"^^xsd:integer ;
+          :courseName          "C-28" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1029 rdf:type                :Course ;
+          :courseCode          "1029"^^xsd:integer ;
+          :courseName          "C-29" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-72> .
+  
+  :1030 rdf:type                :Course ;
+          :courseCode          "1030"^^xsd:integer ;
+          :courseName          "C-30" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1031 rdf:type                :Course ;
+          :courseCode          "1031"^^xsd:integer ;
+          :courseName          "C-31" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1032 rdf:type                :Course ;
+          :courseCode          "1032"^^xsd:integer ;
+          :courseName          "C-32" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-52> .
+  
+  :1033 rdf:type                :Course ;
+          :courseCode          "1033"^^xsd:integer ;
+          :courseName          "C-33" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1034 rdf:type                :Course ;
+          :courseCode          "1034"^^xsd:integer ;
+          :courseName          "C-34" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-14> .
+  
+  :1035 rdf:type                :Course ;
+          :courseCode          "1035"^^xsd:integer ;
+          :courseName          "C-35" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-33> .
+  
+  :1036 rdf:type                :Course ;
+          :courseCode          "1036"^^xsd:integer ;
+          :courseName          "C-36" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-73> .
+  
+  :1037 rdf:type                :Course ;
+          :courseCode          "1037"^^xsd:integer ;
+          :courseName          "C-37" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1038 rdf:type                :Course ;
+          :courseCode          "1038"^^xsd:integer ;
+          :courseName          "C-38" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1039 rdf:type                :Course ;
+          :courseCode          "1039"^^xsd:integer ;
+          :courseName          "C-39" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-74> .
+  
+  :1040 rdf:type                :Course ;
+          :courseCode          "1040"^^xsd:integer ;
+          :courseName          "C-40" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1041 rdf:type                :Course ;
+          :courseCode          "1041"^^xsd:integer ;
+          :courseName          "C-41" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1042 rdf:type                :Course ;
+          :courseCode          "1042"^^xsd:integer ;
+          :courseName          "C-42" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1043 rdf:type                :Course ;
+          :courseCode          "1043"^^xsd:integer ;
+          :courseName          "C-43" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-72> .
+  
+  :1044 rdf:type                :Course ;
+          :courseCode          "1044"^^xsd:integer ;
+          :courseName          "C-44" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1045 rdf:type                :Course ;
+          :courseCode          "1045"^^xsd:integer ;
+          :courseName          "C-45" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-13> .
+  
+  :1046 rdf:type                :Course ;
+          :courseCode          "1046"^^xsd:integer ;
+          :courseName          "C-46" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1047 rdf:type                :Course ;
+          :courseCode          "1047"^^xsd:integer ;
+          :courseName          "C-47" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-12> .
+  
+  :1048 rdf:type                :Course ;
+          :courseCode          "1048"^^xsd:integer ;
+          :courseName          "C-48" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-54> .
+  
+  :1049 rdf:type                :Course ;
+          :courseCode          "1049"^^xsd:integer ;
+          :courseName          "C-49" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1050 rdf:type                :Course ;
+          :courseCode          "1050"^^xsd:integer ;
+          :courseName          "C-50" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1051 rdf:type                :Course ;
+          :courseCode          "1051"^^xsd:integer ;
+          :courseName          "C-51" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-14> .
+  
+  :1052 rdf:type                :Course ;
+          :courseCode          "1052"^^xsd:integer ;
+          :courseName          "C-52" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1053 rdf:type                :Course ;
+          :courseCode          "1053"^^xsd:integer ;
+          :courseName          "C-53" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-33> .
+  
+  :1054 rdf:type                :Course ;
+          :courseCode          "1054"^^xsd:integer ;
+          :courseName          "C-54" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1055 rdf:type                :Course ;
+          :courseCode          "1055"^^xsd:integer ;
+          :courseName          "C-55" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1056 rdf:type                :Course ;
+          :courseCode          "1056"^^xsd:integer ;
+          :courseName          "C-56" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1057 rdf:type                :Course ;
+          :courseCode          "1057"^^xsd:integer ;
+          :courseName          "C-57" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1058 rdf:type                :Course ;
+          :courseCode          "1058"^^xsd:integer ;
+          :courseName          "C-58" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1059 rdf:type                :Course ;
+          :courseCode          "1059"^^xsd:integer ;
+          :courseName          "C-59" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1060 rdf:type                :Course ;
+          :courseCode          "1060"^^xsd:integer ;
+          :courseName          "C-60" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1061 rdf:type                :Course ;
+          :courseCode          "1061"^^xsd:integer ;
+          :courseName          "C-61" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1062 rdf:type                :Course ;
+          :courseCode          "1062"^^xsd:integer ;
+          :courseName          "C-62" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1063 rdf:type                :Course ;
+          :courseCode          "1063"^^xsd:integer ;
+          :courseName          "C-63" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-33> .
+  
+  :1064 rdf:type                :Course ;
+          :courseCode          "1064"^^xsd:integer ;
+          :courseName          "C-64" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1065 rdf:type                :Course ;
+          :courseCode          "1065"^^xsd:integer ;
+          :courseName          "C-65" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-53> .
+  
+  :1066 rdf:type                :Course ;
+          :courseCode          "1066"^^xsd:integer ;
+          :courseName          "C-66" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1067 rdf:type                :Course ;
+          :courseCode          "1067"^^xsd:integer ;
+          :courseName          "C-67" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-11> .
+  
+  :1068 rdf:type                :Course ;
+          :courseCode          "1068"^^xsd:integer ;
+          :courseName          "C-68" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-74> .
+  
+  :1069 rdf:type                :Course ;
+          :courseCode          "1069"^^xsd:integer ;
+          :courseName          "C-69" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-73> .
+  
+  :1070 rdf:type                :Course ;
+          :courseCode          "1070"^^xsd:integer ;
+          :courseName          "C-70" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1071 rdf:type                :Course ;
+          :courseCode          "1071"^^xsd:integer ;
+          :courseName          "C-71" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-73> .
+  
+  :1072 rdf:type                :Course ;
+          :courseCode          "1072"^^xsd:integer ;
+          :courseName          "C-72" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1073 rdf:type                :Course ;
+          :courseCode          "1073"^^xsd:integer ;
+          :courseName          "C-73" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-14> .
+  
+  :1074 rdf:type                :Course ;
+          :courseCode          "1074"^^xsd:integer ;
+          :courseName          "C-74" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-14> .
+  
+  :1075 rdf:type                :Course ;
+          :courseCode          "1075"^^xsd:integer ;
+          :courseName          "C-75" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1076 rdf:type                :Course ;
+          :courseCode          "1076"^^xsd:integer ;
+          :courseName          "C-76" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1077 rdf:type                :Course ;
+          :courseCode          "1077"^^xsd:integer ;
+          :courseName          "C-77" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-53> .
+  
+  :1078 rdf:type                :Course ;
+          :courseCode          "1078"^^xsd:integer ;
+          :courseName          "C-78" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-31> .
+  
+  :1079 rdf:type                :Course ;
+          :courseCode          "1079"^^xsd:integer ;
+          :courseName          "C-79" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-12> .
+  
+  :1080 rdf:type                :Course ;
+          :courseCode          "1080"^^xsd:integer ;
+          :courseName          "C-80" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1081 rdf:type                :Course ;
+          :courseCode          "1081"^^xsd:integer ;
+          :courseName          "C-81" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-52> .
+  
+  :1082 rdf:type                :Course ;
+          :courseCode          "1082"^^xsd:integer ;
+          :courseName          "C-82" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1083 rdf:type                :Course ;
+          :courseCode          "1083"^^xsd:integer ;
+          :courseName          "C-83" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1084 rdf:type                :Course ;
+          :courseCode          "1084"^^xsd:integer ;
+          :courseName          "C-84" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1085 rdf:type                :Course ;
+          :courseCode          "1085"^^xsd:integer ;
+          :courseName          "C-85" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-33> .
+  
+  :1086 rdf:type                :Course ;
+          :courseCode          "1086"^^xsd:integer ;
+          :courseName          "C-86" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-51> .
+  
+  :1087 rdf:type                :Course ;
+          :courseCode          "1087"^^xsd:integer ;
+          :courseName          "C-87" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1088 rdf:type                :Course ;
+          :courseCode          "1088"^^xsd:integer ;
+          :courseName          "C-88" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1089 rdf:type                :Course ;
+          :courseCode          "1089"^^xsd:integer ;
+          :courseName          "C-89" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1090 rdf:type                :Course ;
+          :courseCode          "1090"^^xsd:integer ;
+          :courseName          "C-90" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-54> .
+  
+  :1091 rdf:type                :Course ;
+          :courseCode          "1091"^^xsd:integer ;
+          :courseName          "C-91" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1092 rdf:type                :Course ;
+          :courseCode          "1092"^^xsd:integer ;
+          :courseName          "C-92" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1093 rdf:type                :Course ;
+          :courseCode          "1093"^^xsd:integer ;
+          :courseName          "C-93" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1094 rdf:type                :Course ;
+          :courseCode          "1094"^^xsd:integer ;
+          :courseName          "C-94" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1095 rdf:type                :Course ;
+          :courseCode          "1095"^^xsd:integer ;
+          :courseName          "C-95" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-11> .
+  
+  :1096 rdf:type                :Course ;
+          :courseCode          "1096"^^xsd:integer ;
+          :courseName          "C-96" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-34> .
+  
+  :1097 rdf:type                :Course ;
+          :courseCode          "1097"^^xsd:integer ;
+          :courseName          "C-97" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1098 rdf:type                :Course ;
+          :courseCode          "1098"^^xsd:integer ;
+          :courseName          "C-98" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1099 rdf:type                :Course ;
+          :courseCode          "1099"^^xsd:integer ;
+          :courseName          "C-99" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1100 rdf:type                :Course ;
+          :courseCode          "1100"^^xsd:integer ;
+          :courseName          "C-100" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1101 rdf:type                :Course ;
+          :courseCode          "1101"^^xsd:integer ;
+          :courseName          "C-101" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1102 rdf:type                :Course ;
+          :courseCode          "1102"^^xsd:integer ;
+          :courseName          "C-102" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1103 rdf:type                :Course ;
+          :courseCode          "1103"^^xsd:integer ;
+          :courseName          "C-103" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1104 rdf:type                :Course ;
+          :courseCode          "1104"^^xsd:integer ;
+          :courseName          "C-104" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1105 rdf:type                :Course ;
+          :courseCode          "1105"^^xsd:integer ;
+          :courseName          "C-105" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1106 rdf:type                :Course ;
+          :courseCode          "1106"^^xsd:integer ;
+          :courseName          "C-106" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1107 rdf:type                :Course ;
+          :courseCode          "1107"^^xsd:integer ;
+          :courseName          "C-107" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-33> .
+  
+  :1108 rdf:type                :Course ;
+          :courseCode          "1108"^^xsd:integer ;
+          :courseName          "C-108" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-12> .
+  
+  :1109 rdf:type                :Course ;
+          :courseCode          "1109"^^xsd:integer ;
+          :courseName          "C-109" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1110 rdf:type                :Course ;
+          :courseCode          "1110"^^xsd:integer ;
+          :courseName          "C-110" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-34> .
+  
+  :1111 rdf:type                :Course ;
+          :courseCode          "1111"^^xsd:integer ;
+          :courseName          "C-111" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-54> .
+  
+  :1112 rdf:type                :Course ;
+          :courseCode          "1112"^^xsd:integer ;
+          :courseName          "C-112" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1113 rdf:type                :Course ;
+          :courseCode          "1113"^^xsd:integer ;
+          :courseName          "C-113" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1114 rdf:type                :Course ;
+          :courseCode          "1114"^^xsd:integer ;
+          :courseName          "C-114" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-51> .
+  
+  :1115 rdf:type                :Course ;
+          :courseCode          "1115"^^xsd:integer ;
+          :courseName          "C-115" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1116 rdf:type                :Course ;
+          :courseCode          "1116"^^xsd:integer ;
+          :courseName          "C-116" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-52> .
+  
+  :1117 rdf:type                :Course ;
+          :courseCode          "1117"^^xsd:integer ;
+          :courseName          "C-117" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-72> .
+  
+  :1118 rdf:type                :Course ;
+          :courseCode          "1118"^^xsd:integer ;
+          :courseName          "C-118" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1119 rdf:type                :Course ;
+          :courseCode          "1119"^^xsd:integer ;
+          :courseName          "C-119" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1120 rdf:type                :Course ;
+          :courseCode          "1120"^^xsd:integer ;
+          :courseName          "C-120" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1121 rdf:type                :Course ;
+          :courseCode          "1121"^^xsd:integer ;
+          :courseName          "C-121" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1122 rdf:type                :Course ;
+          :courseCode          "1122"^^xsd:integer ;
+          :courseName          "C-122" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1123 rdf:type                :Course ;
+          :courseCode          "1123"^^xsd:integer ;
+          :courseName          "C-123" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-11> .
+  
+  :1124 rdf:type                :Course ;
+          :courseCode          "1124"^^xsd:integer ;
+          :courseName          "C-124" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-73> .
+  
+  :1125 rdf:type                :Course ;
+          :courseCode          "1125"^^xsd:integer ;
+          :courseName          "C-125" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1126 rdf:type                :Course ;
+          :courseCode          "1126"^^xsd:integer ;
+          :courseName          "C-126" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1127 rdf:type                :Course ;
+          :courseCode          "1127"^^xsd:integer ;
+          :courseName          "C-127" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1128 rdf:type                :Course ;
+          :courseCode          "1128"^^xsd:integer ;
+          :courseName          "C-128" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-31> .
+  
+  :1129 rdf:type                :Course ;
+          :courseCode          "1129"^^xsd:integer ;
+          :courseName          "C-129" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1130 rdf:type                :Course ;
+          :courseCode          "1130"^^xsd:integer ;
+          :courseName          "C-130" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-74> .
+  
+  :1131 rdf:type                :Course ;
+          :courseCode          "1131"^^xsd:integer ;
+          :courseName          "C-131" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-74> .
+  
+  :1132 rdf:type                :Course ;
+          :courseCode          "1132"^^xsd:integer ;
+          :courseName          "C-132" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1133 rdf:type                :Course ;
+          :courseCode          "1133"^^xsd:integer ;
+          :courseName          "C-133" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1134 rdf:type                :Course ;
+          :courseCode          "1134"^^xsd:integer ;
+          :courseName          "C-134" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-51> .
+  
+  :1135 rdf:type                :Course ;
+          :courseCode          "1135"^^xsd:integer ;
+          :courseName          "C-135" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-51> .
+  
+  :1136 rdf:type                :Course ;
+          :courseCode          "1136"^^xsd:integer ;
+          :courseName          "C-136" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-14> .
+  
+  :1137 rdf:type                :Course ;
+          :courseCode          "1137"^^xsd:integer ;
+          :courseName          "C-137" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1138 rdf:type                :Course ;
+          :courseCode          "1138"^^xsd:integer ;
+          :courseName          "C-138" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-51> .
+  
+  :1139 rdf:type                :Course ;
+          :courseCode          "1139"^^xsd:integer ;
+          :courseName          "C-139" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1140 rdf:type                :Course ;
+          :courseCode          "1140"^^xsd:integer ;
+          :courseName          "C-140" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-54> .
+  
+  :1141 rdf:type                :Course ;
+          :courseCode          "1141"^^xsd:integer ;
+          :courseName          "C-141" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-51> .
+  
+  :1142 rdf:type                :Course ;
+          :courseCode          "1142"^^xsd:integer ;
+          :courseName          "C-142" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1143 rdf:type                :Course ;
+          :courseCode          "1143"^^xsd:integer ;
+          :courseName          "C-143" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1144 rdf:type                :Course ;
+          :courseCode          "1144"^^xsd:integer ;
+          :courseName          "C-144" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1145 rdf:type                :Course ;
+          :courseCode          "1145"^^xsd:integer ;
+          :courseName          "C-145" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1146 rdf:type                :Course ;
+          :courseCode          "1146"^^xsd:integer ;
+          :courseName          "C-146" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1147 rdf:type                :Course ;
+          :courseCode          "1147"^^xsd:integer ;
+          :courseName          "C-147" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1148 rdf:type                :Course ;
+          :courseCode          "1148"^^xsd:integer ;
+          :courseName          "C-148" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-14> .
+  
+  :1149 rdf:type                :Course ;
+          :courseCode          "1149"^^xsd:integer ;
+          :courseName          "C-149" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1150 rdf:type                :Course ;
+          :courseCode          "1150"^^xsd:integer ;
+          :courseName          "C-150" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1151 rdf:type                :Course ;
+          :courseCode          "1151"^^xsd:integer ;
+          :courseName          "C-151" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1152 rdf:type                :Course ;
+          :courseCode          "1152"^^xsd:integer ;
+          :courseName          "C-152" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1153 rdf:type                :Course ;
+          :courseCode          "1153"^^xsd:integer ;
+          :courseName          "C-153" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1154 rdf:type                :Course ;
+          :courseCode          "1154"^^xsd:integer ;
+          :courseName          "C-154" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1155 rdf:type                :Course ;
+          :courseCode          "1155"^^xsd:integer ;
+          :courseName          "C-155" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-13> .
+  
+  :1156 rdf:type                :Course ;
+          :courseCode          "1156"^^xsd:integer ;
+          :courseName          "C-156" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1157 rdf:type                :Course ;
+          :courseCode          "1157"^^xsd:integer ;
+          :courseName          "C-157" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1158 rdf:type                :Course ;
+          :courseCode          "1158"^^xsd:integer ;
+          :courseName          "C-158" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-12> .
+  
+  :1159 rdf:type                :Course ;
+          :courseCode          "1159"^^xsd:integer ;
+          :courseName          "C-159" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-34> .
+  
+  :1160 rdf:type                :Course ;
+          :courseCode          "1160"^^xsd:integer ;
+          :courseName          "C-160" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-33> .
+  
+  :1161 rdf:type                :Course ;
+          :courseCode          "1161"^^xsd:integer ;
+          :courseName          "C-161" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1162 rdf:type                :Course ;
+          :courseCode          "1162"^^xsd:integer ;
+          :courseName          "C-162" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1163 rdf:type                :Course ;
+          :courseCode          "1163"^^xsd:integer ;
+          :courseName          "C-163" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-51> .
+  
+  :1164 rdf:type                :Course ;
+          :courseCode          "1164"^^xsd:integer ;
+          :courseName          "C-164" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1165 rdf:type                :Course ;
+          :courseCode          "1165"^^xsd:integer ;
+          :courseName          "C-165" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-11> .
+  
+  :1166 rdf:type                :Course ;
+          :courseCode          "1166"^^xsd:integer ;
+          :courseName          "C-166" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1167 rdf:type                :Course ;
+          :courseCode          "1167"^^xsd:integer ;
+          :courseName          "C-167" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-11> .
+  
+  :1168 rdf:type                :Course ;
+          :courseCode          "1168"^^xsd:integer ;
+          :courseName          "C-168" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-74> .
+  
+  :1169 rdf:type                :Course ;
+          :courseCode          "1169"^^xsd:integer ;
+          :courseName          "C-169" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-74> .
+  
+  :1170 rdf:type                :Course ;
+          :courseCode          "1170"^^xsd:integer ;
+          :courseName          "C-170" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1171 rdf:type                :Course ;
+          :courseCode          "1171"^^xsd:integer ;
+          :courseName          "C-171" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1172 rdf:type                :Course ;
+          :courseCode          "1172"^^xsd:integer ;
+          :courseName          "C-172" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1173 rdf:type                :Course ;
+          :courseCode          "1173"^^xsd:integer ;
+          :courseName          "C-173" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-72> .
+  
+  :1174 rdf:type                :Course ;
+          :courseCode          "1174"^^xsd:integer ;
+          :courseName          "C-174" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-34> .
+  
+  :1175 rdf:type                :Course ;
+          :courseCode          "1175"^^xsd:integer ;
+          :courseName          "C-175" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1176 rdf:type                :Course ;
+          :courseCode          "1176"^^xsd:integer ;
+          :courseName          "C-176" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-52> .
+  
+  :1177 rdf:type                :Course ;
+          :courseCode          "1177"^^xsd:integer ;
+          :courseName          "C-177" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1178 rdf:type                :Course ;
+          :courseCode          "1178"^^xsd:integer ;
+          :courseName          "C-178" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-13> .
+  
+  :1179 rdf:type                :Course ;
+          :courseCode          "1179"^^xsd:integer ;
+          :courseName          "C-179" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-12> .
+  
+  :1180 rdf:type                :Course ;
+          :courseCode          "1180"^^xsd:integer ;
+          :courseName          "C-180" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-11> .
+  
+  :1181 rdf:type                :Course ;
+          :courseCode          "1181"^^xsd:integer ;
+          :courseName          "C-181" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1182 rdf:type                :Course ;
+          :courseCode          "1182"^^xsd:integer ;
+          :courseName          "C-182" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1183 rdf:type                :Course ;
+          :courseCode          "1183"^^xsd:integer ;
+          :courseName          "C-183" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-72> .
+  
+  :1184 rdf:type                :Course ;
+          :courseCode          "1184"^^xsd:integer ;
+          :courseName          "C-184" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1185 rdf:type                :Course ;
+          :courseCode          "1185"^^xsd:integer ;
+          :courseName          "C-185" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1186 rdf:type                :Course ;
+          :courseCode          "1186"^^xsd:integer ;
+          :courseName          "C-186" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1187 rdf:type                :Course ;
+          :courseCode          "1187"^^xsd:integer ;
+          :courseName          "C-187" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-11> .
+  
+  :1188 rdf:type                :Course ;
+          :courseCode          "1188"^^xsd:integer ;
+          :courseName          "C-188" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1189 rdf:type                :Course ;
+          :courseCode          "1189"^^xsd:integer ;
+          :courseName          "C-189" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-51> .
+  
+  :1190 rdf:type                :Course ;
+          :courseCode          "1190"^^xsd:integer ;
+          :courseName          "C-190" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-74> .
+  
+  :1191 rdf:type                :Course ;
+          :courseCode          "1191"^^xsd:integer ;
+          :courseName          "C-191" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1192 rdf:type                :Course ;
+          :courseCode          "1192"^^xsd:integer ;
+          :courseName          "C-192" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1193 rdf:type                :Course ;
+          :courseCode          "1193"^^xsd:integer ;
+          :courseName          "C-193" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-34> .
+  
+  :1194 rdf:type                :Course ;
+          :courseCode          "1194"^^xsd:integer ;
+          :courseName          "C-194" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1195 rdf:type                :Course ;
+          :courseCode          "1195"^^xsd:integer ;
+          :courseName          "C-195" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1196 rdf:type                :Course ;
+          :courseCode          "1196"^^xsd:integer ;
+          :courseName          "C-196" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1197 rdf:type                :Course ;
+          :courseCode          "1197"^^xsd:integer ;
+          :courseName          "C-197" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-52> .
+  
+  :1198 rdf:type                :Course ;
+          :courseCode          "1198"^^xsd:integer ;
+          :courseName          "C-198" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1199 rdf:type                :Course ;
+          :courseCode          "1199"^^xsd:integer ;
+          :courseName          "C-199" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1200 rdf:type                :Course ;
+          :courseCode          "1200"^^xsd:integer ;
+          :courseName          "C-200" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-12> .
+  
+  :1201 rdf:type                :Course ;
+          :courseCode          "1201"^^xsd:integer ;
+          :courseName          "C-201" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-52> .
+  
+  :1202 rdf:type                :Course ;
+          :courseCode          "1202"^^xsd:integer ;
+          :courseName          "C-202" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1203 rdf:type                :Course ;
+          :courseCode          "1203"^^xsd:integer ;
+          :courseName          "C-203" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1204 rdf:type                :Course ;
+          :courseCode          "1204"^^xsd:integer ;
+          :courseName          "C-204" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1205 rdf:type                :Course ;
+          :courseCode          "1205"^^xsd:integer ;
+          :courseName          "C-205" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1206 rdf:type                :Course ;
+          :courseCode          "1206"^^xsd:integer ;
+          :courseName          "C-206" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-51> .
+  
+  :1207 rdf:type                :Course ;
+          :courseCode          "1207"^^xsd:integer ;
+          :courseName          "C-207" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1208 rdf:type                :Course ;
+          :courseCode          "1208"^^xsd:integer ;
+          :courseName          "C-208" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-52> .
+  
+  :1209 rdf:type                :Course ;
+          :courseCode          "1209"^^xsd:integer ;
+          :courseName          "C-209" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-54> .
+  
+  :1210 rdf:type                :Course ;
+          :courseCode          "1210"^^xsd:integer ;
+          :courseName          "C-210" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1211 rdf:type                :Course ;
+          :courseCode          "1211"^^xsd:integer ;
+          :courseName          "C-211" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1212 rdf:type                :Course ;
+          :courseCode          "1212"^^xsd:integer ;
+          :courseName          "C-212" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-33> .
+  
+  :1213 rdf:type                :Course ;
+          :courseCode          "1213"^^xsd:integer ;
+          :courseName          "C-213" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1214 rdf:type                :Course ;
+          :courseCode          "1214"^^xsd:integer ;
+          :courseName          "C-214" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1215 rdf:type                :Course ;
+          :courseCode          "1215"^^xsd:integer ;
+          :courseName          "C-215" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-12> .
+  
+  :1216 rdf:type                :Course ;
+          :courseCode          "1216"^^xsd:integer ;
+          :courseName          "C-216" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-12> .
+  
+  :1217 rdf:type                :Course ;
+          :courseCode          "1217"^^xsd:integer ;
+          :courseName          "C-217" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1218 rdf:type                :Course ;
+          :courseCode          "1218"^^xsd:integer ;
+          :courseName          "C-218" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1219 rdf:type                :Course ;
+          :courseCode          "1219"^^xsd:integer ;
+          :courseName          "C-219" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-33> .
+  
+  :1220 rdf:type                :Course ;
+          :courseCode          "1220"^^xsd:integer ;
+          :courseName          "C-220" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-33> .
+  
+  :1221 rdf:type                :Course ;
+          :courseCode          "1221"^^xsd:integer ;
+          :courseName          "C-221" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1222 rdf:type                :Course ;
+          :courseCode          "1222"^^xsd:integer ;
+          :courseName          "C-222" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1223 rdf:type                :Course ;
+          :courseCode          "1223"^^xsd:integer ;
+          :courseName          "C-223" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1224 rdf:type                :Course ;
+          :courseCode          "1224"^^xsd:integer ;
+          :courseName          "C-224" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1225 rdf:type                :Course ;
+          :courseCode          "1225"^^xsd:integer ;
+          :courseName          "C-225" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-52> .
+  
+  :1226 rdf:type                :Course ;
+          :courseCode          "1226"^^xsd:integer ;
+          :courseName          "C-226" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-72> .
+  
+  :1227 rdf:type                :Course ;
+          :courseCode          "1227"^^xsd:integer ;
+          :courseName          "C-227" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1228 rdf:type                :Course ;
+          :courseCode          "1228"^^xsd:integer ;
+          :courseName          "C-228" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-52> .
+  
+  :1229 rdf:type                :Course ;
+          :courseCode          "1229"^^xsd:integer ;
+          :courseName          "C-229" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1230 rdf:type                :Course ;
+          :courseCode          "1230"^^xsd:integer ;
+          :courseName          "C-230" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1231 rdf:type                :Course ;
+          :courseCode          "1231"^^xsd:integer ;
+          :courseName          "C-231" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-34> .
+  
+  :1232 rdf:type                :Course ;
+          :courseCode          "1232"^^xsd:integer ;
+          :courseName          "C-232" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-52> .
+  
+  :1233 rdf:type                :Course ;
+          :courseCode          "1233"^^xsd:integer ;
+          :courseName          "C-233" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1234 rdf:type                :Course ;
+          :courseCode          "1234"^^xsd:integer ;
+          :courseName          "C-234" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1235 rdf:type                :Course ;
+          :courseCode          "1235"^^xsd:integer ;
+          :courseName          "C-235" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-51> .
+  
+  :1236 rdf:type                :Course ;
+          :courseCode          "1236"^^xsd:integer ;
+          :courseName          "C-236" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-12> .
+  
+  :1237 rdf:type                :Course ;
+          :courseCode          "1237"^^xsd:integer ;
+          :courseName          "C-237" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1238 rdf:type                :Course ;
+          :courseCode          "1238"^^xsd:integer ;
+          :courseName          "C-238" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-12> .
+  
+  :1239 rdf:type                :Course ;
+          :courseCode          "1239"^^xsd:integer ;
+          :courseName          "C-239" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-74> .
+  
+  :1240 rdf:type                :Course ;
+          :courseCode          "1240"^^xsd:integer ;
+          :courseName          "C-240" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-41> .
+  
+  :1241 rdf:type                :Course ;
+          :courseCode          "1241"^^xsd:integer ;
+          :courseName          "C-241" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1242 rdf:type                :Course ;
+          :courseCode          "1242"^^xsd:integer ;
+          :courseName          "C-242" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-11> .
+  
+  :1243 rdf:type                :Course ;
+          :courseCode          "1243"^^xsd:integer ;
+          :courseName          "C-243" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1244 rdf:type                :Course ;
+          :courseCode          "1244"^^xsd:integer ;
+          :courseName          "C-244" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1245 rdf:type                :Course ;
+          :courseCode          "1245"^^xsd:integer ;
+          :courseName          "C-245" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1246 rdf:type                :Course ;
+          :courseCode          "1246"^^xsd:integer ;
+          :courseName          "C-246" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-52> .
+  
+  :1247 rdf:type                :Course ;
+          :courseCode          "1247"^^xsd:integer ;
+          :courseName          "C-247" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1248 rdf:type                :Course ;
+          :courseCode          "1248"^^xsd:integer ;
+          :courseName          "C-248" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1249 rdf:type                :Course ;
+          :courseCode          "1249"^^xsd:integer ;
+          :courseName          "C-249" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1250 rdf:type                :Course ;
+          :courseCode          "1250"^^xsd:integer ;
+          :courseName          "C-250" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-72> .
+  
+  :1251 rdf:type                :Course ;
+          :courseCode          "1251"^^xsd:integer ;
+          :courseName          "C-251" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1252 rdf:type                :Course ;
+          :courseCode          "1252"^^xsd:integer ;
+          :courseName          "C-252" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1253 rdf:type                :Course ;
+          :courseCode          "1253"^^xsd:integer ;
+          :courseName          "C-253" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-74> .
+  
+  :1254 rdf:type                :Course ;
+          :courseCode          "1254"^^xsd:integer ;
+          :courseName          "C-254" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D5-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-42> .
+  
+  :1255 rdf:type                :Course ;
+          :courseCode          "1255"^^xsd:integer ;
+          :courseName          "C-255" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1256 rdf:type                :Course ;
+          :courseCode          "1256"^^xsd:integer ;
+          :courseName          "C-256" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-53> .
+  
+  :1257 rdf:type                :Course ;
+          :courseCode          "1257"^^xsd:integer ;
+          :courseName          "C-257" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1258 rdf:type                :Course ;
+          :courseCode          "1258"^^xsd:integer ;
+          :courseName          "C-258" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-33> .
+  
+  :1259 rdf:type                :Course ;
+          :courseCode          "1259"^^xsd:integer ;
+          :courseName          "C-259" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1260 rdf:type                :Course ;
+          :courseCode          "1260"^^xsd:integer ;
+          :courseName          "C-260" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1261 rdf:type                :Course ;
+          :courseCode          "1261"^^xsd:integer ;
+          :courseName          "C-261" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1262 rdf:type                :Course ;
+          :courseCode          "1262"^^xsd:integer ;
+          :courseName          "C-262" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-33> .
+  
+  :1263 rdf:type                :Course ;
+          :courseCode          "1263"^^xsd:integer ;
+          :courseName          "C-263" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1264 rdf:type                :Course ;
+          :courseCode          "1264"^^xsd:integer ;
+          :courseName          "C-264" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-14> .
+  
+  :1265 rdf:type                :Course ;
+          :courseCode          "1265"^^xsd:integer ;
+          :courseName          "C-265" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1266 rdf:type                :Course ;
+          :courseCode          "1266"^^xsd:integer ;
+          :courseName          "C-266" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-33> .
+  
+  :1267 rdf:type                :Course ;
+          :courseCode          "1267"^^xsd:integer ;
+          :courseName          "C-267" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D4-1> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-32> .
+  
+  :1268 rdf:type                :Course ;
+          :courseCode          "1268"^^xsd:integer ;
+          :courseName          "C-268" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1269 rdf:type                :Course ;
+          :courseCode          "1269"^^xsd:integer ;
+          :courseName          "C-269" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1270 rdf:type                :Course ;
+          :courseCode          "1270"^^xsd:integer ;
+          :courseName          "C-270" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-11> .
+  
+  :1271 rdf:type                :Course ;
+          :courseCode          "1271"^^xsd:integer ;
+          :courseName          "C-271" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-14> .
+  
+  :1272 rdf:type                :Course ;
+          :courseCode          "1272"^^xsd:integer ;
+          :courseName          "C-272" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-71> .
+  
+  :1273 rdf:type                :Course ;
+          :courseCode          "1273"^^xsd:integer ;
+          :courseName          "C-273" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1274 rdf:type                :Course ;
+          :courseCode          "1274"^^xsd:integer ;
+          :courseName          "C-274" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1275 rdf:type                :Course ;
+          :courseCode          "1275"^^xsd:integer ;
+          :courseName          "C-275" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-12> .
+  
+  :1276 rdf:type                :Course ;
+          :courseCode          "1276"^^xsd:integer ;
+          :courseName          "C-276" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1277 rdf:type                :Course ;
+          :courseCode          "1277"^^xsd:integer ;
+          :courseName          "C-277" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-13> .
+  
+  :1278 rdf:type                :Course ;
+          :courseCode          "1278"^^xsd:integer ;
+          :courseName          "C-278" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-54> .
+  
+  :1279 rdf:type                :Course ;
+          :courseCode          "1279"^^xsd:integer ;
+          :courseName          "C-279" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1280 rdf:type                :Course ;
+          :courseCode          "1280"^^xsd:integer ;
+          :courseName          "C-280" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-52> .
+  
+  :1281 rdf:type                :Course ;
+          :courseCode          "1281"^^xsd:integer ;
+          :courseName          "C-281" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1282 rdf:type                :Course ;
+          :courseCode          "1282"^^xsd:integer ;
+          :courseName          "C-282" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-54> .
+  
+  :1283 rdf:type                :Course ;
+          :courseCode          "1283"^^xsd:integer ;
+          :courseName          "C-283" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1284 rdf:type                :Course ;
+          :courseCode          "1284"^^xsd:integer ;
+          :courseName          "C-284" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-54> .
+  
+  :1285 rdf:type                :Course ;
+          :courseCode          "1285"^^xsd:integer ;
+          :courseName          "C-285" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-73> .
+  
+  :1286 rdf:type                :Course ;
+          :courseCode          "1286"^^xsd:integer ;
+          :courseName          "C-286" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-54> .
+  
+  :1287 rdf:type                :Course ;
+          :courseCode          "1287"^^xsd:integer ;
+          :courseName          "C-287" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1288 rdf:type                :Course ;
+          :courseCode          "1288"^^xsd:integer ;
+          :courseName          "C-288" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-54> .
+  
+  :1289 rdf:type                :Course ;
+          :courseCode          "1289"^^xsd:integer ;
+          :courseName          "C-289" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1290 rdf:type                :Course ;
+          :courseCode          "1290"^^xsd:integer ;
+          :courseName          "C-290" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D6-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-54> .
+  
+  :1291 rdf:type                :Course ;
+          :courseCode          "1291"^^xsd:integer ;
+          :courseName          "C-291" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1292 rdf:type                :Course ;
+          :courseCode          "1292"^^xsd:integer ;
+          :courseName          "C-292" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1293 rdf:type                :Course ;
+          :courseCode          "1293"^^xsd:integer ;
+          :courseName          "C-293" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1294 rdf:type                :Course ;
+          :courseCode          "1294"^^xsd:integer ;
+          :courseName          "C-294" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1295 rdf:type                :Course ;
+          :courseCode          "1295"^^xsd:integer ;
+          :courseName          "C-295" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D3-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-21> .
+  
+  :1296 rdf:type                :Course ;
+          :courseCode          "1296"^^xsd:integer ;
+          :courseName          "C-296" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-0> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-13> .
+  
+  :1297 rdf:type                :Course ;
+          :courseCode          "1297"^^xsd:integer ;
+          :courseName          "C-297" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D2-2> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-12> .
+  
+  :1298 rdf:type                :Course ;
+          :courseCode          "1298"^^xsd:integer ;
+          :courseName          "C-298" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D7-4> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-61> .
+  
+  :1299 rdf:type                :Course ;
+          :courseCode          "1299"^^xsd:integer ;
+          :courseName          "C-299" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "Second Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D1-3> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-01> .
+  
+  :1300 rdf:type                :Course ;
+          :courseCode          "1300"^^xsd:integer ;
+          :courseName          "C-300" ;
+          :credits          "7.5"^^xsd:double ;
+          :level          "First Cycle" ;
+          :CourseInDivision     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/D8-5> ;
+          :CourseOwnedByProgramme     <http://www.semanticweb.org/user/ontologies/2025/3/untitled-ontology-3/P-72> .
+  
+}
